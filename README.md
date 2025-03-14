@@ -18,7 +18,7 @@ A análise se concentra em quatro principais aspectos:
 ## Como Utilizar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-danieldevbel/analise-salarios-ti.git
+   git clone https://github.com/danieldevbel/analise_salarios_ti
    ```
 2. Instale as dependências:
    ```bash
