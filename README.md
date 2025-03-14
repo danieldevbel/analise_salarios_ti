@@ -38,5 +38,7 @@ Sinta-se à vontade para contribuir! Para isso:
 3. Envie um pull request com as melhorias.
 
 ---
-Desenvolvido por [Seu Nome]
+Desenvolvido por Daniel Junior
+
+Likedin: https://www.linkedin.com/in/danieldevbel/
 
