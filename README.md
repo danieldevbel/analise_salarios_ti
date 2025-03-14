@@ -40,5 +40,5 @@ Sinta-se à vontade para contribuir! Para isso:
 ---
 Desenvolvido por Daniel Junior
 
-Likedin: https://www.linkedin.com/in/danieldevbel/
+Linkedin: https://www.linkedin.com/in/danieldevbel/
 
